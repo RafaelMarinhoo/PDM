@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/5b090d66521044897fc96a7883adf88f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/be95bb33922fbb895a8d389d2050e244/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/bb093d90fd6e0d7469f2f3aada31270d/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/f2d60ccdc9a6e44db9d12661f12810c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/e0fd038bdf51ec214232a63ef46920be/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/a430813547f2654879623784cd784fc5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/6b28413cc62d7b28397cdb54d2d5075f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/e501b4eb8210f177868c478f73f26d14/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/f98a9de2c4819b4d961a0873d9c5dc6c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/41820108cae64451160065d80deaed92/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/8b1387e855432b6c0764d31a459bfef6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/d079def6297a0a5b37d799d4359caae5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/9b79b147b366cb64c8e4dd7dc753e5f8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/6575008d18c21cfb0a5e51f14f1ff43d/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/b00c5fc8a0a470ba55094a73ed115de4/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/273dfcd43dc56e37b1c3b6f32afea39c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/880c4562a41726fb0e71344d4555de59/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/f81a5a20d3b4ae8e827cfdd381a4cc80/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/deb784b7d33729facbabd363752eca49/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/2cddddf32b89a4da2331f97df6c7cb5a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/a55e4ab56d3db67fc1d27e2adc7e69c8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/33ba550a893b4f9b7d2df7e1216df158/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:3:11-40
+		INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/bb093d90fd6e0d7469f2f3aada31270d/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/bb093d90fd6e0d7469f2f3aada31270d/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/6575008d18c21cfb0a5e51f14f1ff43d/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/6575008d18c21cfb0a5e51f14f1ff43d/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/b00c5fc8a0a470ba55094a73ed115de4/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/b00c5fc8a0a470ba55094a73ed115de4/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/6575008d18c21cfb0a5e51f14f1ff43d/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.example.expobre.MainActivity
+ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/5b090d66521044897fc96a7883adf88f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/5b090d66521044897fc96a7883adf88f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/be95bb33922fbb895a8d389d2050e244/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/be95bb33922fbb895a8d389d2050e244/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/bb093d90fd6e0d7469f2f3aada31270d/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/bb093d90fd6e0d7469f2f3aada31270d/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/f2d60ccdc9a6e44db9d12661f12810c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/f2d60ccdc9a6e44db9d12661f12810c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/e0fd038bdf51ec214232a63ef46920be/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/e0fd038bdf51ec214232a63ef46920be/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/a430813547f2654879623784cd784fc5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/a430813547f2654879623784cd784fc5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/6b28413cc62d7b28397cdb54d2d5075f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/6b28413cc62d7b28397cdb54d2d5075f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/e501b4eb8210f177868c478f73f26d14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/e501b4eb8210f177868c478f73f26d14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/f98a9de2c4819b4d961a0873d9c5dc6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/f98a9de2c4819b4d961a0873d9c5dc6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/41820108cae64451160065d80deaed92/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/41820108cae64451160065d80deaed92/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/8b1387e855432b6c0764d31a459bfef6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/8b1387e855432b6c0764d31a459bfef6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/d079def6297a0a5b37d799d4359caae5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/d079def6297a0a5b37d799d4359caae5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/9b79b147b366cb64c8e4dd7dc753e5f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/9b79b147b366cb64c8e4dd7dc753e5f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/6575008d18c21cfb0a5e51f14f1ff43d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/6575008d18c21cfb0a5e51f14f1ff43d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/b00c5fc8a0a470ba55094a73ed115de4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/b00c5fc8a0a470ba55094a73ed115de4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/273dfcd43dc56e37b1c3b6f32afea39c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/273dfcd43dc56e37b1c3b6f32afea39c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/880c4562a41726fb0e71344d4555de59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/880c4562a41726fb0e71344d4555de59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/f81a5a20d3b4ae8e827cfdd381a4cc80/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/f81a5a20d3b4ae8e827cfdd381a4cc80/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/deb784b7d33729facbabd363752eca49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/deb784b7d33729facbabd363752eca49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/2cddddf32b89a4da2331f97df6c7cb5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/2cddddf32b89a4da2331f97df6c7cb5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/a55e4ab56d3db67fc1d27e2adc7e69c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/a55e4ab56d3db67fc1d27e2adc7e69c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/33ba550a893b4f9b7d2df7e1216df158/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ifpb/.gradle/caches/transforms-2/files-2.1/33ba550a893b4f9b7d2df7e1216df158/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ifpb/AndroidStudioProjects/ExPobre2/app/src/main/AndroidManifest.xml
